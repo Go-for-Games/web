@@ -3,18 +3,18 @@ import moment from 'moment';
 import Event from './components/Event';
 
 const events = [
-  // {
-  //   date: 'Thu 10 Feb 2022, 20:30 - 22:30',
-  //   location: 'eSport',
-  //   form: 'https://forms.gle/bsPuAboVBoiJAtW89',
-  //   view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
-  // },
   {
-    date: 'Thu 10 Feb 2022, 20:30 - 22:30',
+    date: 'Tue 15 Feb 2022, 20:30 - 22:30',
     location: 'eSport',
-    form: 'https://forms.gle/YMCaPVseYmhS1caGA',
-    view: 'https://docs.google.com/forms/d/e/1FAIpQLSfn4xSq_6cZXcnT-ZtczJpmaUaKe4FStNBeGaxjoIH8SubvVA/viewanalytics',
+    form: 'https://forms.gle/bsPuAboVBoiJAtW89',
+    view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
   },
+  // {
+  //   date: 'Thu 17 Feb 2022, 20:30 - 22:30',
+  //   location: 'eSport',
+  //   form: 'https://forms.gle/YMCaPVseYmhS1caGA',
+  //   view: 'https://docs.google.com/forms/d/e/1FAIpQLSfn4xSq_6cZXcnT-ZtczJpmaUaKe4FStNBeGaxjoIH8SubvVA/viewanalytics',
+  // },
   // {
   //   date: 'Thu 23 Dec 2021, 20:30 - 22:30',
   //   location: 'eSport',
