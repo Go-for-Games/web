@@ -4,7 +4,7 @@ import Event from './components/Event';
 
 const events = [
   {
-    date: 'Tue 15 Feb 2022, 20:30 - 22:30',
+    date: 'Tue 22 Feb 2022, 20:30 - 22:30',
     location: 'eSport',
     form: 'https://forms.gle/bsPuAboVBoiJAtW89',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
