@@ -10,7 +10,7 @@ const events = [
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
   },
   {
-    date: 'Tue 10 Mar 2022, 20:30 - 22:30',
+    date: 'Tue 10 Mar 2022, 20:15 - 22:15',
     location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/YMCaPVseYmhS1caGA',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfn4xSq_6cZXcnT-ZtczJpmaUaKe4FStNBeGaxjoIH8SubvVA/viewanalytics',
