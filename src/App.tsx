@@ -3,14 +3,14 @@ import moment from 'moment';
 import Event from './components/Event';
 
 const events = [
+  // {
+  //   date: 'Tue 08 Mar 2022, 20:30 - 22:30',
+  //   location: 'eSport',
+  //   form: 'https://forms.gle/bsPuAboVBoiJAtW89',
+  //   view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
+  // },
   {
-    date: 'Tue 08 Mar 2022, 20:30 - 22:30',
-    location: 'eSport',
-    form: 'https://forms.gle/bsPuAboVBoiJAtW89',
-    view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
-  },
-  {
-    date: 'Thu 10 Mar 2022, 20:15 - 22:15',
+    date: 'Thu 17 Mar 2022, 20:15 - 22:15',
     location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/YMCaPVseYmhS1caGA',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfn4xSq_6cZXcnT-ZtczJpmaUaKe4FStNBeGaxjoIH8SubvVA/viewanalytics',
