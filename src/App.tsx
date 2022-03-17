@@ -16,7 +16,7 @@ const events = [
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfn4xSq_6cZXcnT-ZtczJpmaUaKe4FStNBeGaxjoIH8SubvVA/viewanalytics',
   },
   {
-    date: 'Sat 27 Mar 2022, 12:00 - 14:00',
+    date: 'Sat 26 Mar 2022, 12:00 - 14:00',
     location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/1p5uYgZFCUE3gnqr8',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLScpU77xANv69l_niQo7cfW77Pqavrgt8dcGdLMRONWAbH66bQ/viewanalytics',
