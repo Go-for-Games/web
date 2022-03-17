@@ -5,7 +5,7 @@ import Event from './components/Event';
 const events = [
   {
     date: 'Sat 19 Mar 2022, 12:00 - 14:00',
-    location: 'eSport',
+    location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/bsPuAboVBoiJAtW89',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
   },
@@ -17,7 +17,7 @@ const events = [
   },
   {
     date: 'Sat 27 Mar 2022, 12:00 - 14:00',
-    location: 'eSport',
+    location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/1p5uYgZFCUE3gnqr8',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLScpU77xANv69l_niQo7cfW77Pqavrgt8dcGdLMRONWAbH66bQ/viewanalytics',
   },
