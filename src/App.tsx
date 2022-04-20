@@ -10,13 +10,13 @@ const events = [
   //   view: 'https://docs.google.com/forms/d/e/1FAIpQLSfDSN2M6W6BUjL72rGgl2WnbvKXFBoYYaCgezCH3-m8FYgqLQ/viewanalytics',
   // },
   {
-    date: 'Thu 14 April 2022, 20:15 - 22:15',
+    date: 'Thu 21 April 2022, 20:15 - 22:15',
     location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/YMCaPVseYmhS1caGA',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLSfn4xSq_6cZXcnT-ZtczJpmaUaKe4FStNBeGaxjoIH8SubvVA/viewanalytics',
   },
   {
-    date: 'Sat 16 April 2022, 12:00 - 14:00',
+    date: 'Sat 23 April 2022, 12:00 - 14:00',
     location: 'UniSport Otaniemi *',
     form: 'https://forms.gle/1p5uYgZFCUE3gnqr8',
     view: 'https://docs.google.com/forms/d/e/1FAIpQLScpU77xANv69l_niQo7cfW77Pqavrgt8dcGdLMRONWAbH66bQ/viewanalytics',
