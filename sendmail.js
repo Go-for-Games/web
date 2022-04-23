@@ -29,7 +29,7 @@ var req = https.request(options, function (res) {
 });
 
 var postData =
-  '------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="from"\r\n\r\nBadminton Event <badminton-test@powerkernel.net>\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="to"\r\n\r\nharry@powerkernel.com\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="subject"\r\n\r\nUpcoming Badminton Events\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="template"\r\n\r\nbadminton-event\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW--';
+  '------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="from"\r\n\r\nBadminton Event <badminton@powerkernel.net>\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="to"\r\n\r\nbadminton@powerkernel.net\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="subject"\r\n\r\nUpcoming Badminton Events\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW\r\nContent-Disposition: form-data; name="template"\r\n\r\nbadminton-event\r\n------WebKitFormBoundary7MA4YWxkTrZu0gW--';
 
 req.setHeader('content-type', 'multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW');
 
