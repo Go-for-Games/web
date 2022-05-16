@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Time 4 Games
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Schedule new events
+
+1. Adjust the Google forms (date,time and place)
+2. Also adjust `App.tsx` too
+3. Commit and push chnages to github
+4. Changes will be deployed and an email will be sent.
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
